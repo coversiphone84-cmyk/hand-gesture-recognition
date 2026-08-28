@@ -1,0 +1,76 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+PIPFILE.lock
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# C++
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.o
+*.a
+*.so
+*.dylib
+*.exe
+.cmake/
+build/
+dist/
+
+# Data
+data/train/
+data/test/
+data/val/
+*.csv
+*.xlsx
+
+# Models
+models/*.h5
+models/*.pkl
+models/*.pth
+*.pb
+
+# Logs
+logs/
+*.log
+
+# Virtual Environment
+venv/
+venv3/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
